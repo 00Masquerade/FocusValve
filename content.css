@@ -1,0 +1,14 @@
+/* FocusValve — injected blur styles */
+
+.fv-blur {
+  filter: blur(12px) !important;
+  opacity: 0.1 !important;
+  pointer-events: auto !important;
+  transition: filter 0.4s ease, opacity 0.4s ease !important;
+}
+
+.fv-blur.fv-revealed {
+  filter: blur(0) !important;
+  opacity: 1 !important;
+}
+
