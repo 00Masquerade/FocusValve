@@ -1,7 +1,7 @@
 [English](#focusswitch) | [简体中文](#注意力开关)
 
 # FocusSwitch
-An extension helping keep focus on what matters, mute ad and social feeds, relieving FOMO without hoarding data.
+An extension helping keep focus on what you think matters, mute the rest including ads, relieving FOMO without hoarding data.
 
 ## The Problem
 Social timelines are designed to hijack your attention. Even a highly curated following list spans multiple domains—one minute you are tracking breakthrough research, the next you are sucked into sports drama, corporate PR, or sponsored ads. 
